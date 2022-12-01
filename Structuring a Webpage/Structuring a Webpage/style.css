@@ -1,0 +1,18 @@
+
+                
+                .header {border:solid 2px blue;
+                    padding-bottom:30px;
+                    margin-right:1300px;}
+                 .grid {display:grid;
+                    grid-template-columns: 1fr 1fr 1fr;
+                    column-gap:75px;}
+                .div1 {border:solid 2px purple;
+                    padding-bottom:300px;}
+                .div2 {border:solid 2px purple;
+                    object-fit:contain;}
+                .div3 {border:solid 2px purple;
+                    padding-bottom: 300px;}
+                .footer {border:solid 2px blue;
+                        padding-top: 10px;
+                    margin-right: 1050px;}
+
